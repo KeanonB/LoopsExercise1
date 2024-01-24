@@ -1,0 +1,4 @@
+C:\Users\Redux\Desktop\repos\LoopsExercise1\LoopsExercise1\obj\Debug\net6.0\LoopsExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Redux\Desktop\repos\LoopsExercise1\LoopsExercise1\obj\Debug\net6.0\LoopsExercise1.AssemblyInfoInputs.cache
+C:\Users\Redux\Desktop\repos\LoopsExercise1\LoopsExercise1\obj\Debug\net6.0\LoopsExercise1.AssemblyInfo.cs
+C:\Users\Redux\Desktop\repos\LoopsExercise1\LoopsExercise1\obj\Debug\net6.0\LoopsExercise1.csproj.CoreCompileInputs.cache
